@@ -11,3 +11,4 @@ https://cs231n.github.io/assignments2018/assignment1/
 ### Additional Information
 Inline questions are also completely written.
 You can download CIFAR-10 dataset using  the get_datasets.sh
+Other assignments(2, 3) will be uploaded soon.
