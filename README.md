@@ -4,7 +4,7 @@
 This documents is based on Stanford cs231n : 2018 assignment
 
 ### Download the original files
-You can download the original files(.zip) on under the link
+You can download the original files(.zip) on under the link \\
 https://cs231n.github.io/assignments2018/assignment1/
 
 ## Assignment 1
