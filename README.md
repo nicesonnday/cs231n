@@ -1,8 +1,12 @@
-# cs231n
+# Lecture : cs231n
 
-## This documents is based on Stanford cs231n : 2018 assignment
+## version
+This documents is based on Stanford cs231n : 2018 assignment
 
-## You can download the original files(.zip) on under link
+## Download the original files
+You can download the original files(.zip) on under the link
 https://cs231n.github.io/assignments2018/assignment1/
 
-## Inline questions are also completely written.
+## Additional Information
+Inline questions are also completely written.
+CIFAR-10 dataset is already uploaded in cs231/datasets directory.
